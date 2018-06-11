@@ -10,6 +10,7 @@ import javax.swing.border.EmptyBorder;
 public class MainGui extends JFrame {
 
 	private JPanel contentPane;
+	private String hello;
 
 	/**
 	 * Launch the application.
